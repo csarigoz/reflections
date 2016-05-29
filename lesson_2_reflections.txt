@@ -18,6 +18,7 @@ organized? How would branches help?
 	By this way the master branch would not be effected from the bugs or other unwanted changes. Master code would still be working for that matter.
 
 How do the diagrams help you visualize the branch structure?
+	Diagrams make it easier to understand the branch structure by visualizing the nonlinear relationshipts between the commits and branches.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
