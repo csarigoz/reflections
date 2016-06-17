@@ -23,7 +23,8 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    I'd callaborate by making meetings or chaating over IM to sort things out. If the teammates were available to communicate at the same time, it would be even better to make thing work.
+    But most of the time, it's very time consuming to have meetings, so it'd have been unproductive.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
